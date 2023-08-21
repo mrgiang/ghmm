@@ -1,4 +1,0 @@
-{
-  "config_url": "http://localhost/assetbundles/versioninfo.txt",
-  "bundle_path": "assetbundles"
-}
