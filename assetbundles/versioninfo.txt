@@ -14,7 +14,7 @@
   "bundle_config_id_windows":"wn01",
   "bundle_review_config_id_windows":"1QE3MEYLJM2RxXskJdOpBB9wOpHLg1PZO",
   "bundle_config_id_windows_debug":"1CoqOAzY5ugOO7AugCZ26WIQVEI4S_PU1",
-  "preload_login":"lua;verbundle",
+  "preload_login":"",
   "bundle_cache_version":15,
   "android_store_url": "market://details?id=com.shabu.ghoff",
   "ios_store_url": "itms-apps://itunes.apple.com/app/id1562812453",
