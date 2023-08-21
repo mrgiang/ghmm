@@ -1,5 +1,5 @@
 {
-  "host": "http://localhost/",
+  "host": "https://raw.githubusercontent.com/mrgiang/ghmm/main/assetbundles/",
   "ios_review_version": "",
   "develop_version": "1.0.1.14",
   "release_version": "1.0.1",
