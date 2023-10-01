@@ -2,6 +2,6 @@
   "info": [
     {"name":"lua","url":"ios/lua","size":"1915"},
 	{"name":"verbundle","url":"ios/verbundle","size":"1"},
-	{"name":"iOS","url":"ios/iOS","size":"1"},
+	{"name":"iOS","url":"ios/iOS","size":"1"}
   ]
 }
