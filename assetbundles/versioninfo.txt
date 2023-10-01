@@ -8,7 +8,7 @@
   "bundle_android": "04022021.01",
   "bundle_ios": "04022021.01",
   "bundle_windows": "04022021.01",
-  "bundle_config_id_ios":"1TJZmbbJC9DFNShNXm3dcX0Y1XBesJPP5",
+  "bundle_config_id_ios":"ios01",
   "bundle_config_id_android":"wn01",
   "bundle_review_config_id_android":"1gDGVOXMGQriyqL1S7BBue04ovES7-WoY",
   "bundle_config_id_windows":"wn01",
