@@ -1,5 +1,5 @@
 {
-  "host": "http://42.115.202.69:8080/",
+  "host": "http://118.70.91.116:8080/",
   "ios_review_version": "",
   "develop_version": "1.1.48.33",
   "release_version": "1.1.48.33",
